@@ -13,3 +13,4 @@ Este proyecto contiene dos soluciones para calcular el promedio semanal de tempe
 3. Ingresar las temperaturas diarias de la semana y se obtendrá el promedio.
 
 En el archivo `comparacion.md`, se observa una comparación de ambos enfoques.
+
